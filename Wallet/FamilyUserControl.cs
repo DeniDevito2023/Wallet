@@ -39,7 +39,12 @@ namespace Wallet
             return age.ToString();
 
         }
-
+        /// <summary>
+        // Здесь коммит 
+        /// </summary>
+        /// <param name="family"></param>
+        /// <param name="sale"></param>
+        /// <returns></returns>
         private static int CalculateSaleOclad(FamilyMember family, int sale)
         {
             int cost = 0;
