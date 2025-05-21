@@ -42,6 +42,7 @@ namespace Wallet
         /// <summary>
         // Здесь коммит 
         /// </summary>
+        /// ,фывафывафывафыва
         /// <param name="family"></param>
         /// <param name="sale"></param>
         /// <returns></returns>
